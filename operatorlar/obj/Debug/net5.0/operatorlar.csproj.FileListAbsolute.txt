@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/bin/Debug/net5.0/operatorlar.deps.json
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/bin/Debug/net5.0/operatorlar.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/bin/Debug/net5.0/operatorlar.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/bin/Debug/net5.0/operatorlar.dll
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/bin/Debug/net5.0/ref/operatorlar.dll
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/bin/Debug/net5.0/operatorlar.pdb
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/operatorlar.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/operatorlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/operatorlar.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/operatorlar.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/operatorlar.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/operatorlar.dll
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/ref/operatorlar.dll
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/operatorlar.pdb
+/Users/naimaltinel/Desktop/Pratikler/operatorlar/obj/Debug/net5.0/operatorlar.genruntimeconfig.cache
