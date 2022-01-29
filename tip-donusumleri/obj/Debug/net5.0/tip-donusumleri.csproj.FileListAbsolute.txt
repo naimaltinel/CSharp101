@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.deps.json
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.dll
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/bin/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.pdb
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.dll
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.pdb
+/Users/naimaltinel/Desktop/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.genruntimeconfig.cache
