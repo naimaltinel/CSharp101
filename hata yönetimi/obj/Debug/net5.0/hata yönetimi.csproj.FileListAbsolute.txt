@@ -1,0 +1,10 @@
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/obj/Debug/net5.0/hata yönetimi.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/obj/Debug/net5.0/hata yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/obj/Debug/net5.0/hata yönetimi.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/obj/Debug/net5.0/hata yönetimi.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/obj/Debug/net5.0/hata yönetimi.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/bin/Debug/net5.0/hata yönetimi.dll
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/bin/Debug/net5.0/hata yönetimi.pdb
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/obj/Debug/net5.0/hata yönetimi.dll
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/obj/Debug/net5.0/ref/hata yönetimi.dll
+/Users/naimaltinel/Desktop/Pratikler/hata yönetimi/obj/Debug/net5.0/hata yönetimi.pdb
