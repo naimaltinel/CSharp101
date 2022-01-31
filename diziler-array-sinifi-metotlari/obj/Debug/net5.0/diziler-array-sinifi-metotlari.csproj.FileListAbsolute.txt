@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/bin/Debug/net5.0/diziler-array-sinifi-metotlari.deps.json
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/bin/Debug/net5.0/diziler-array-sinifi-metotlari.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/bin/Debug/net5.0/diziler-array-sinifi-metotlari.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/bin/Debug/net5.0/diziler-array-sinifi-metotlari.dll
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/bin/Debug/net5.0/ref/diziler-array-sinifi-metotlari.dll
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/bin/Debug/net5.0/diziler-array-sinifi-metotlari.pdb
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/diziler-array-sinifi-metotlari.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/diziler-array-sinifi-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/diziler-array-sinifi-metotlari.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/diziler-array-sinifi-metotlari.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/diziler-array-sinifi-metotlari.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/diziler-array-sinifi-metotlari.dll
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/ref/diziler-array-sinifi-metotlari.dll
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/diziler-array-sinifi-metotlari.pdb
+/Users/naimaltinel/Desktop/Pratikler/diziler-array-sinifi-metotlari/obj/Debug/net5.0/diziler-array-sinifi-metotlari.genruntimeconfig.cache
