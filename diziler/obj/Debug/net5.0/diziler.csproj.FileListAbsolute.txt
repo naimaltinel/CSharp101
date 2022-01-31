@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/diziler/bin/Debug/net5.0/diziler.deps.json
+/Users/naimaltinel/Desktop/Pratikler/diziler/bin/Debug/net5.0/diziler.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/diziler/bin/Debug/net5.0/diziler.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/diziler/bin/Debug/net5.0/diziler.dll
+/Users/naimaltinel/Desktop/Pratikler/diziler/bin/Debug/net5.0/ref/diziler.dll
+/Users/naimaltinel/Desktop/Pratikler/diziler/bin/Debug/net5.0/diziler.pdb
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/diziler.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/diziler.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/diziler.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/diziler.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/diziler.dll
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/ref/diziler.dll
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/diziler.pdb
+/Users/naimaltinel/Desktop/Pratikler/diziler/obj/Debug/net5.0/diziler.genruntimeconfig.cache
