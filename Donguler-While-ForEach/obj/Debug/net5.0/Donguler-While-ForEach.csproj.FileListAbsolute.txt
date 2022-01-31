@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/bin/Debug/net5.0/Donguler-While-ForEach.deps.json
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/bin/Debug/net5.0/Donguler-While-ForEach.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/bin/Debug/net5.0/Donguler-While-ForEach.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/bin/Debug/net5.0/Donguler-While-ForEach.dll
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/bin/Debug/net5.0/ref/Donguler-While-ForEach.dll
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/bin/Debug/net5.0/Donguler-While-ForEach.pdb
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/Donguler-While-ForEach.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/Donguler-While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/Donguler-While-ForEach.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/Donguler-While-ForEach.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/Donguler-While-ForEach.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/Donguler-While-ForEach.dll
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/ref/Donguler-While-ForEach.dll
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/Donguler-While-ForEach.pdb
+/Users/naimaltinel/Desktop/Pratikler/Donguler-While-ForEach/obj/Debug/net5.0/Donguler-While-ForEach.genruntimeconfig.cache
