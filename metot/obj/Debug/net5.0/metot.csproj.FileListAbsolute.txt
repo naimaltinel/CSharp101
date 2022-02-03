@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/metot/bin/Debug/net5.0/metot.deps.json
+/Users/naimaltinel/Desktop/Pratikler/metot/bin/Debug/net5.0/metot.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/metot/bin/Debug/net5.0/metot.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/metot/bin/Debug/net5.0/metot.dll
+/Users/naimaltinel/Desktop/Pratikler/metot/bin/Debug/net5.0/ref/metot.dll
+/Users/naimaltinel/Desktop/Pratikler/metot/bin/Debug/net5.0/metot.pdb
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/metot.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/metot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/metot.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/metot.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/metot.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/metot.dll
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/ref/metot.dll
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/metot.pdb
+/Users/naimaltinel/Desktop/Pratikler/metot/obj/Debug/net5.0/metot.genruntimeconfig.cache
