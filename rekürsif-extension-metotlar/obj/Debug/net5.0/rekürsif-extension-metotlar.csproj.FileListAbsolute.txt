@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/bin/Debug/net5.0/rekürsif-extension-metotlar.deps.json
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/bin/Debug/net5.0/rekürsif-extension-metotlar.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/bin/Debug/net5.0/rekürsif-extension-metotlar.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/bin/Debug/net5.0/rekürsif-extension-metotlar.dll
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/bin/Debug/net5.0/ref/rekürsif-extension-metotlar.dll
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/bin/Debug/net5.0/rekürsif-extension-metotlar.pdb
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/rekürsif-extension-metotlar.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/rekürsif-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/rekürsif-extension-metotlar.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/rekürsif-extension-metotlar.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/rekürsif-extension-metotlar.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/rekürsif-extension-metotlar.dll
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/ref/rekürsif-extension-metotlar.dll
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/rekürsif-extension-metotlar.pdb
+/Users/naimaltinel/Desktop/Pratikler/rekürsif-extension-metotlar/obj/Debug/net5.0/rekürsif-extension-metotlar.genruntimeconfig.cache
