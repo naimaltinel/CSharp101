@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/bin/Debug/net5.0/hair-metotlar-string.deps.json
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/bin/Debug/net5.0/hair-metotlar-string.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/bin/Debug/net5.0/hair-metotlar-string.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/bin/Debug/net5.0/hair-metotlar-string.dll
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/bin/Debug/net5.0/ref/hair-metotlar-string.dll
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/bin/Debug/net5.0/hair-metotlar-string.pdb
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/hair-metotlar-string.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/hair-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/hair-metotlar-string.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/hair-metotlar-string.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/hair-metotlar-string.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/hair-metotlar-string.dll
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/ref/hair-metotlar-string.dll
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/hair-metotlar-string.pdb
+/Users/naimaltinel/Desktop/Pratikler/hair-metotlar-string/obj/Debug/net5.0/hair-metotlar-string.genruntimeconfig.cache
