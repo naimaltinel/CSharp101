@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/bin/Debug/net5.0/4.deps.json
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/bin/Debug/net5.0/4.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/bin/Debug/net5.0/4.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/bin/Debug/net5.0/4.dll
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/bin/Debug/net5.0/ref/4.dll
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/bin/Debug/net5.0/4.pdb
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/4.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/4.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/4.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/4.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/4.dll
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/ref/4.dll
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/4.pdb
+/Users/naimaltinel/Desktop/Pratikler/Odev-1/4/obj/Debug/net5.0/4.genruntimeconfig.cache
