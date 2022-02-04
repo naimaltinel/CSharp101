@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Generic-Koleksiyonla-List/1.0.0": {
+        "runtime": {
+          "Generic-Koleksiyonla-List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic-Koleksiyonla-List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/bin/Debug/net5.0/Generic-Koleksiyonla-List.deps.json
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/bin/Debug/net5.0/Generic-Koleksiyonla-List.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/bin/Debug/net5.0/Generic-Koleksiyonla-List.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/bin/Debug/net5.0/Generic-Koleksiyonla-List.dll
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/bin/Debug/net5.0/ref/Generic-Koleksiyonla-List.dll
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/bin/Debug/net5.0/Generic-Koleksiyonla-List.pdb
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/Generic-Koleksiyonla-List.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/Generic-Koleksiyonla-List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/Generic-Koleksiyonla-List.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/Generic-Koleksiyonla-List.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/Generic-Koleksiyonla-List.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/Generic-Koleksiyonla-List.dll
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/ref/Generic-Koleksiyonla-List.dll
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/Generic-Koleksiyonla-List.pdb
+/Users/naimaltinel/Desktop/Pratikler/Generic-Koleksiyonla-List/obj/Debug/net5.0/Generic-Koleksiyonla-List.genruntimeconfig.cache
