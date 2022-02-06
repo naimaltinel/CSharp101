@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.deps.json
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.dll
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/bin/Debug/net5.0/ref/kurucu-metotlar.dll
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.pdb
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.dll
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/ref/kurucu-metotlar.dll
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.pdb
+/Users/naimaltinel/Desktop/Pratikler/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.genruntimeconfig.cache
