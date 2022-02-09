@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/bin/Debug/net5.0/csharp-enum.deps.json
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/bin/Debug/net5.0/csharp-enum.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/bin/Debug/net5.0/csharp-enum.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/bin/Debug/net5.0/csharp-enum.dll
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/bin/Debug/net5.0/ref/csharp-enum.dll
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/bin/Debug/net5.0/csharp-enum.pdb
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/csharp-enum.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/csharp-enum.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/csharp-enum.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/csharp-enum.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/csharp-enum.dll
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/ref/csharp-enum.dll
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/csharp-enum.pdb
+/Users/naimaltinel/Desktop/Pratikler/csharp-enum/obj/Debug/net5.0/csharp-enum.genruntimeconfig.cache
