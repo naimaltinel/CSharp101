@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/bin/Debug/net5.0/static-sinif-uyeleri.deps.json
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/bin/Debug/net5.0/static-sinif-uyeleri.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/bin/Debug/net5.0/static-sinif-uyeleri.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/bin/Debug/net5.0/static-sinif-uyeleri.dll
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/bin/Debug/net5.0/ref/static-sinif-uyeleri.dll
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/bin/Debug/net5.0/static-sinif-uyeleri.pdb
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/static-sinif-uyeleri.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/static-sinif-uyeleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/static-sinif-uyeleri.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/static-sinif-uyeleri.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/static-sinif-uyeleri.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/static-sinif-uyeleri.dll
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/ref/static-sinif-uyeleri.dll
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/static-sinif-uyeleri.pdb
+/Users/naimaltinel/Desktop/Pratikler/static-sinif-uyeleri/obj/Debug/net5.0/static-sinif-uyeleri.genruntimeconfig.cache
