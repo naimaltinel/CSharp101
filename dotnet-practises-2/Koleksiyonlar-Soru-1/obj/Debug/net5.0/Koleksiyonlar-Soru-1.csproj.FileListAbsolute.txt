@@ -1,0 +1,15 @@
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/bin/Debug/net5.0/Koleksiyonlar-Soru-1.deps.json
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/bin/Debug/net5.0/Koleksiyonlar-Soru-1.runtimeconfig.json
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/bin/Debug/net5.0/Koleksiyonlar-Soru-1.runtimeconfig.dev.json
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/bin/Debug/net5.0/Koleksiyonlar-Soru-1.dll
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/bin/Debug/net5.0/ref/Koleksiyonlar-Soru-1.dll
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/bin/Debug/net5.0/Koleksiyonlar-Soru-1.pdb
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/Koleksiyonlar-Soru-1.AssemblyInfo.cs
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/Koleksiyonlar-Soru-1.dll
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/ref/Koleksiyonlar-Soru-1.dll
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/Koleksiyonlar-Soru-1.pdb
+/Users/naimaltinel/Desktop/Pratikler/dotnet-practises-2/Koleksiyonlar-Soru-1/obj/Debug/net5.0/Koleksiyonlar-Soru-1.genruntimeconfig.cache
